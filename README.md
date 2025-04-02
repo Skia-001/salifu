@@ -1,6 +1,6 @@
-# # Brewed Awakening Portfolio
+# # Salifu foday Kamara Portfolio
 
-Welcome to the Brewed Awakening portfolio! This is a personal portfolio website showcasing my skills, projects, and services as a software developer. The website is designed to provide potential clients and employers with an overview of my work and how to get in touch.
+Welcome to my portfolio! This is a personal portfolio website showcasing my skills, projects, and services as a software developer. The website is designed to provide potential clients and employers with an overview of my work and how to get in touch.
 
 ## Table of Contents
 - [Features](#features)
